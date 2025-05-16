@@ -15,3 +15,7 @@ Entraîner un réseau de neurones avec Scikit-learn pour prédire la parité du 
 - Séparation 80 % entraînement, 20 % test
 - Création d’un MLP avec 1 couche de 15 neurones
 - Entraînement et évaluation du modèle
+
+## Exemple Log Entrainement
+
+<img src="logs.png" alt="Logs">
